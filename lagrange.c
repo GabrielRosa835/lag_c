@@ -7,6 +7,8 @@
     - Lucas Moraes Mosca, RA 250889
     - Victor Henrique Soares Baleeiro, RA 252366
 
+    REPOSITÓRIO: https://github.com/GabrielRosa835/lag_c.git
+
     DESCRIÇÃO DO PROGRAMA:
     Este programa implementa a Interpolação Polinomial utilizando a Forma de 
     Lagrange para descobrir valores não tabelados de uma função desconhecida. 
