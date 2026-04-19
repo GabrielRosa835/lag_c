@@ -16,23 +16,28 @@
     x solicitado, mantendo um loop de execução até o encerramento manual.
 
     EXEMPLOS DE POLINÔMIOS PARA TESTE:
-    - Exemplo 1 (Grau 1 - Reta simples): 
+    - Exemplo 1 (reta simples): 
+        Grau: 1
         Pontos: (1, 2), (3, 4) 
         Testar x = 2 
         Resultado Esperado P(2) = 3
-    - Exemplo 2 (Grau 2 - Parábola f(x) = x^2): 
+    - Exemplo 2 (parábola f(x) = x^2): 
+        Grau: 2
         Pontos: (0, 0), (1, 1), (2, 4) 
         Testar x = 1.5 
         Resultado Esperado P(1.5) = 2.25
-    - Exemplo 3 (Grau 3 - Curva de Trajetória/Telemetria): 
+    - Exemplo 3 (curva de trajetória/telemetria): 
+        Grau: 3
         Pontos: (-1, -1), (0, 0), (1, 1), (2, 8) 
         Testar x = 0.5 
         Resultado Esperado P(0.5) = 0.125
-    - Exemplo 4 (Grau 2 - Aproximação de f(x) = 1/x): 
+    - Exemplo 4 (aproximação de f(x) = 1/x): 
+        Grau: 2
         Pontos: (2, 0.5), (2.5, 0.4), (4, 0.25) 
         Testar x = 3 
         Resultado Esperado P(3) = 0.325
-    - Exemplo 5 (Grau 3 - Dados empíricos aleatórios): 
+    - Exemplo 5 (dados empíricos aleatórios): 
+        Grau: 3
         Pontos: (10, 212), (15, 240), (20, 265), (25, 298) 
         Testar x = 18 
         Resultado Esperado P(18) = 254.8
