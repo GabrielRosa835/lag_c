@@ -4,4 +4,4 @@ A simple implementation for Lagrange's method of polinomial interpolation, done 
 This repo already comes with a binary built for Linux, running on Windows would require it to be recompiled.
 
 ### Utilização
-![Visualization of the running executable in bash terminal](print)
+![Visualization of the running executable in bash terminal](print.png)
